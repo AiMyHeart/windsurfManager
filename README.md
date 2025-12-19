@@ -63,6 +63,12 @@ Windsurf Manager 是一个 Windsurf 账号管理工具，帮助您集中管理�
 - **✏️ 编辑** - 修改账号信息
 - **🗑️ 删除** - 删除该账号
 
+- <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/bf13663e-53d1-4ed5-99b7-3ed15df8eb2e" />
+- <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/07476551-2041-46de-b1c9-76bc72eb9533" />
+- <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/b231c502-77ec-45cd-83bf-905776e0ed9b" />
+- <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/9d6f3848-c539-4ad1-a143-22ff8438f9b1" />
+
+
 ## ➕ 添加账号
 
 ### 步骤 1: 获取 JWT Token
